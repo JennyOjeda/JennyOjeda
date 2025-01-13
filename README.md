@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Mi nombre es Jenny Ojeda Benito y soy desarrolladora de software de Perú. Me especializo en crear soluciones de software innovadoras, fáciles de usar y eficientes. Con una sólida base en programación y una pasión por la tecnología, estoy en constante aprendizaje y adaptación a nuevas herramientas y frameworks para mantenerme a la vanguardia en este campo en constante evolución.</h2>
+<h2 align="left">Hi 👋! My name is Jenny Ojeda Benito, and I am a developer from Peru. I specialize in creating innovative, user-friendly, and efficient software solutions. With a strong foundation in programming and a passion for technology, I am constantly learning and adapting to new tools and frameworks to stay ahead in this ever-evolving field.</h2>
 
 ###
 
