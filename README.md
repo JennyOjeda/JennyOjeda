@@ -1,22 +1,19 @@
-# <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
+# <a href="https://www.linkedin.com/in/ashwanisng/">Jenny Ojeda Benito</a> :smiley:
  
  <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ashwani's Twitter" width="22px" src="" />
 </a>
 <a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://www.linkedin.com/in/jenny-m-ojeda-benito-a43b0b13b" />
 </a>
 <a href="https://github.com/ashwanisng">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ashwani's Github" width="22px" src="" />
 </a>
 <a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://www.instagram.com/jennyojedabenito/" />
 </a>
 <a href="https://www.facebook.com/ashwani1406">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@ashwanisng">
-  <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://www.facebook.com/jenny.ojeda.731" />
 </a>
 
 <br/>
@@ -35,12 +32,8 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Mobile application development using **Android (Java)**.
-- Python.
+- JavaScript
 - Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
 
 **Languages and Tools:**  
 
@@ -71,8 +64,6 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 </a>    
 
 
-##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
 
 <p align="center"> 
   Visitor count<br>
