@@ -1,23 +1,5 @@
 # <a href="https://www.linkedin.com/in/ashwanisng/">Jenny Ojeda Benito</a> :smiley:
  
- <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Twitter" width="22px" src="" />
-</a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://www.linkedin.com/in/jenny-m-ojeda-benito-a43b0b13b" />
-</a>
-<a href="https://github.com/ashwanisng">
-  <img align="left" alt="Ashwani's Github" width="22px" src="" />
-</a>
-<a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://www.instagram.com/jennyojedabenito/" />
-</a>
-<a href="https://www.facebook.com/ashwani1406">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://www.facebook.com/jenny.ojeda.731" />
-</a>
-
-<br/>
-<br/>
 
 Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
 
@@ -25,9 +7,7 @@ Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Scie
 B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
 
 ## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
