@@ -1,10 +1,8 @@
 # <a href="https://www.linkedin.com/in/ashwanisng/">Jenny Ojeda Benito</a> :smiley:
  
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
-
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+My name is Jenny Ojeda Benito, and I am a developer from Peru. I specialize in creating innovative, user-friendly, and efficient software solutions. With a strong foundation in programming and a passion for technology, I am constantly learning and adapting to new tools and frameworks to stay ahead in this ever-evolving field.
 
 ## Communities :dancers:
 
@@ -16,6 +14,13 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 - Java
 
 **Languages and Tools:**  
+Programming Languages: Python, JavaScript, and C++.
+Web Development: Skilled in HTML, CSS, React, and Node.js.
+Database Management: Experienced with SQL and NoSQL databases like MySQL and MongoDB.
+Problem-Solving: Adept at debugging and optimizing code to ensure high performance.
+Collaboration: Effective communicator and team player, with experience in Agile development environments.
+Project Management: Familiar with tools like Jira, Trello, and Git for version control.
+Continuous Learning: Always exploring new technologies, such as AI, machine learning, and cloud computing.
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
