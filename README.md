@@ -6,7 +6,6 @@ My name is Jenny Ojeda Benito, and I am a developer from Peru. I specialize in c
 
 ## Communities :dancers:
 
-
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
@@ -14,13 +13,13 @@ My name is Jenny Ojeda Benito, and I am a developer from Peru. I specialize in c
 - Java
 
 **Languages and Tools:**  
-Programming Languages: Python, JavaScript, and C++.
-Web Development: Skilled in HTML, CSS, React, and Node.js.
-Database Management: Experienced with SQL and NoSQL databases like MySQL and MongoDB.
-Problem-Solving: Adept at debugging and optimizing code to ensure high performance.
-Collaboration: Effective communicator and team player, with experience in Agile development environments.
-Project Management: Familiar with tools like Jira, Trello, and Git for version control.
-Continuous Learning: Always exploring new technologies, such as AI, machine learning, and cloud computing.
+- Programming Languages: Python, JavaScript, and C++.
+- Web Development: Skilled in HTML, CSS, React, and Node.js.
+- Database Management: Experienced with SQL and NoSQL databases like MySQL and MongoDB.
+- Problem-Solving: Adept at debugging and optimizing code to ensure high performance.
+- Collaboration: Effective communicator and team player, with experience in Agile development environments.
+- Project Management: Familiar with tools like Jira, Trello, and Git for version control.
+- Continuous Learning: Always exploring new technologies, such as AI, machine learning, and cloud computing.
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
