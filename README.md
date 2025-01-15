@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/ashwanisng/">Jenny Ojeda Benito</a> :smiley:
  
  <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="" />
+  <img align="left" alt="Twitter" width="22px" src="" />
 </a>
 <a href="https://linkedin.com/in/ashwanisng">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://www.linkedin.com/in/jenny-m-ojeda-benito-a43b0b13b" />
